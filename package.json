@@ -43,7 +43,7 @@
     "open": "0.0.5",
     "sass-loader": "^4.1.1",
     "style-loader": "^0.13.1",
-    "uglify-js": "git://github.com/mishoo/UglifyJS2.git#harmony",
+    "uglify-js": "git://github.com/mishoo/UglifyJS2#harmony-v2.8.22",
     "vue": "^2.1.0",
     "vue-loader": "^10.0.0",
     "vue-style-loader": "^1.0.0",
